@@ -1,6 +1,6 @@
 # NO GUESTLIST – Europe Tour
 
-Tour page for NO GUESTLIST (Rammie & Nai). Live at https://4amramen.github.io/noguestlist/
+Tour page for NO GUESTLIST (Rammie & Nai). Live at https://noguestlist.world/
 
 ## Add or change a ticket link
 1. Open `index.html` on GitHub and click the pencil (Edit).
